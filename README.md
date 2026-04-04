@@ -22,3 +22,8 @@ Programs:
 Take name and age as input
 Print entered details
 Concepts: scanf()
+~ Day 3 – Basic Arithmetic
+Programs:
+Add two numbers
+Calculator using +, -, *, /
+Concepts: Variables, operators
