@@ -1,4 +1,4 @@
-#include <stdio.h>
+// FOR OPERAT#include <stdio.h>
 int main() {
     float x,y,result;
     printf("enter the first number:");
@@ -46,14 +46,4 @@ int main() {
     return 0;
 }
 
-#include <stdio.h>
-int main() {
-    float x,y,result;
-    printf("enter the first number:");
-    scanf("%f",&x);
-    printf("enter the second number:");
-    scanf("%f",&y);
-    result=x%y;
-    printf("\nresult is %f", result);
-    return 0;
-}
+
