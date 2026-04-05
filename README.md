@@ -27,3 +27,8 @@ Programs:
 Add two numbers
 Calculator using +, -, *, /
 Concepts: Variables, operators
+~ Day 4 – Area Calculations
+Programs:
+Area of rectangle
+Area of circle
+Concepts: Formula-based coding
