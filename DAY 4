@@ -1,0 +1,31 @@
+//AREA OF TRIANGLE :
+
+#include <stdio.h>
+
+int main() {
+    float length, breadth, area;
+    printf("Enter length and breadth of rectangle: ");
+    scanf("%f %f", &length, &breadth);
+
+    area = length * breadth;
+    printf("Area of Rectangle = %.2f\n", area);
+
+    return 0;
+}
+
+
+//AREA OF CIRCLE :
+
+#include <stdio.h>
+#define PI 3.1416
+
+int main() {
+    float radius, area;
+    printf("Enter radius of circle: ");
+    scanf("%f", &radius);
+
+    area = PI * radius * radius;
+    printf("Area of Circle = %.2f\n", area);
+
+    return 0;
+}
