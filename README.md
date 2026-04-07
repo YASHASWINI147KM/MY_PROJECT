@@ -32,3 +32,9 @@ Programs:
 Area of rectangle
 Area of circle
 Concepts: Formula-based coding
+~ DAY 5 – Swap Two Numbers
+Programs:
+Swap using third variable
+Swap without third variable
+Concepts: Variables
+
