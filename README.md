@@ -36,5 +36,10 @@ Concepts: Formula-based coding
 Programs:
 Swap using third variable
 Swap without third variable
+~ DAY 6 – Even or Odd
+Programs:
+Check whether a number is even or odd
+Check whether a number is divisible by 5
+Concepts: if, %
 Concepts: Variables
 
