@@ -42,4 +42,10 @@ Check whether a number is even or odd
 Check whether a number is divisible by 5
 Concepts: if, %
 Concepts: Variables
+~ DAY 7 - Positive, Negative, or Zero
+Programs:
+Check whether a number is positive, negative, or zero
+Find absolute value
+Concepts: if-else
+
 
