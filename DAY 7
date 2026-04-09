@@ -1,0 +1,29 @@
+#include <stdio.h>
+#include <stdlib.h> // For abs()
+
+int main() {
+    int num;
+
+    // Prompt user for input
+    printf("Enter an integer: ");
+    if (scanf("%d", &num) != 1) { // Input validation
+        printf("Invalid input. Please enter an integer.\n");
+        return 1;
+    }
+
+    // Check if number is positive, negative, or zero
+    if (num > 0) {
+        printf("%d is Positive.\n", num);
+    } 
+    else if (num < 0) {
+        printf("%d is Negative.\n", num);
+    } 
+    else {
+        printf("The number is Zero.\n");
+    }
+
+    // Find and display absolute value
+    printf("Absolute value: %d\n", abs(num));
+
+    return 0;
+}
