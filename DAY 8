@@ -1,0 +1,44 @@
+// Largest of 2 Numbers
+#include <stdio.h>
+
+int main() {
+    int a, b;
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
+
+    if (a >= b) {
+        if (a == b)
+            printf("Both numbers are equal.\n");
+        else
+            printf("%d is the largest.\n", a);
+    } else {
+        printf("%d is the largest.\n", b);
+    }
+
+    return 0;
+}
+
+
+//Largest of 3 Numbers 
+#include <stdio.h>
+
+int main() {
+    int a, b, c;
+    printf("Enter three numbers: ");
+    scanf("%d %d %d", &a, &b, &c);
+
+    if (a >= b) {
+        if (a >= c)
+            printf("%d is the largest.\n", a);
+        else
+            printf("%d is the largest.\n", c);
+    } else {
+        if (b >= c)
+            printf("%d is the largest.\n", b);
+        else
+            printf("%d is the largest.\n", c);
+    }
+
+    return 0;
+}
+
