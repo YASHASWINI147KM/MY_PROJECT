@@ -47,5 +47,10 @@ Programs:
 Check whether a number is positive, negative, or zero
 Find absolute value
 Concepts: if-else
+~ Day 8 – Largest Number
+Programs:
+Largest of 2 numbers
+Largest of 3 numbers
+Concepts: Nested if
 
 
