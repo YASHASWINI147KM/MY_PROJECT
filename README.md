@@ -52,5 +52,10 @@ Programs:
 Largest of 2 numbers
 Largest of 3 numbers
 Concepts: Nested if
+~ Day 9 – Leap Year & Voting
+Programs:
+Leap year checker
+Voting eligibility checker
+Concepts: Conditional statements
 
 
