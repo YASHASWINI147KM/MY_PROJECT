@@ -57,5 +57,10 @@ Programs:
 Leap year checker
 Voting eligibility checker
 Concepts: Conditional statements
+~ Day 10 – Simple Interest
+Programs:
+Calculate simple interest
+Calculate total amount
+Concepts: Arithmetic formulas
 
 
