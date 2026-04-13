@@ -62,5 +62,8 @@ Programs:
 Calculate simple interest
 Calculate total amount
 Concepts: Arithmetic formulas
-
-
+~ DAY 11 - Multiplication Table 
+Programs:
+Print table of a number 
+Print tables from 1 to 5 
+Concepts: for loop
