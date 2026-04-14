@@ -67,3 +67,8 @@ Programs:
 Print table of a number 
 Print tables from 1 to 5 
 Concepts: for loop
+~ DAY 12 - SUM OF NATURAL NUMBERS 
+PROGRAMS:
+SUM OF FIRST N NATURAL NUMBERS
+SUM OF EVEN NUMBERS UP TO N
+CONCEPTS: LOOPS
