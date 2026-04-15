@@ -72,3 +72,9 @@ PROGRAMS:
 SUM OF FIRST N NATURAL NUMBERS
 SUM OF EVEN NUMBERS UP TO N
 CONCEPTS: LOOPS
+~ Day 13 – Factorial Program
+Programs:
+Find factorial of a number
+Factorial using loop
+Concepts: for loop
+
