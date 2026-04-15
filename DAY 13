@@ -1,0 +1,17 @@
+int main() {
+    int num;
+
+    printf("Enter a non-negative integer: ");
+    if (scanf("%d", &num) != 1) {
+        printf("Invalid input. Please enter an integer.\n");
+        return 1;
+    }
+
+    if (num < 0) {
+        printf("Factorial is not defined for negative numbers.\n");
+        return 1;
+    }
+    printf("Factorial of %d = %llu\n", num, factorial(num));
+
+    return 0;
+}
