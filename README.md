@@ -67,14 +67,20 @@ Programs:
 Print table of a number 
 Print tables from 1 to 5 
 Concepts: for loop
-~ DAY 12 - SUM OF NATURAL NUMBERS 
-PROGRAMS:
-SUM OF FIRST N NATURAL NUMBERS
-SUM OF EVEN NUMBERS UP TO N
-CONCEPTS: LOOPS
+~ Day 12 – Sum of Natural Numbers
+Programs:
+Sum of first n natural numbers
+Sum of even numbers up to n
+Concepts: Loops
 ~ Day 13 – Factorial Program
 Programs:
 Find factorial of a number
 Factorial using loop
 Concepts: for loop
+~ Day 14 – Reverse a Number
+Programs:
+Reverse digits of a number
+Count digits of a number
+Concepts: while loop
+
 
