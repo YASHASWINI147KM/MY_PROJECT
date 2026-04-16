@@ -1,0 +1,48 @@
+// NUMBER REVERSE 
+#include <stdio.h>
+
+int main() {
+    int num, reversed = 0;
+    printf("Enter an integer: ");
+    if (scanf("%d", &num) != 1) { 
+        printf("Invalid input! Please enter an integer.\n");
+        return 1;
+    }
+
+    int original = num; 
+    while (num != 0) {
+        int digit = num % 10;          
+        reversed = reversed * 10 + digit; 
+        num = num / 10;                 
+    }
+    printf("Reversed number of %d is: %d\n", original, reversed);
+    return 0;
+}
+
+
+//counting digits 
+#include <stdio.h>
+
+int main() {
+    long long num;
+    int count = 0;
+
+    printf("Enter an integer: ");
+    if (scanf("%lld", &num) != 1) {
+        printf("Invalid input. Please enter a valid integer.\n");
+        return 1;
+    }
+    if (num < 0) {
+        num = -num;
+    }
+    if (num == 0) {
+        count = 1;
+    } else {
+        while (num != 0) {
+            num /= 10;  // Remove last digit
+            count++;    // Increase digit count
+        }
+    }
+    printf("Number of digits: %d\n", count);
+    return 0;
+}
