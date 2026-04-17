@@ -82,5 +82,10 @@ Programs:
 Reverse digits of a number
 Count digits of a number
 Concepts: while loop
+~ Day 15 – Palindrome Number
+Programs:
+Check palindrome number
+Reverse and compare
+Concepts: Logic building
 
 
