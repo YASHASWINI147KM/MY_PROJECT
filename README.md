@@ -87,5 +87,10 @@ Programs:
 Check palindrome number
 Reverse and compare
 Concepts: Logic building
+~ Day 16 – Armstrong Number
+Programs:
+Check Armstrong number
+Armstrong numbers in a range
+Concepts: Loops, conditions
 
 
