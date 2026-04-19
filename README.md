@@ -92,5 +92,9 @@ Programs:
 Check Armstrong number
 Armstrong numbers in a range
 Concepts: Loops, conditions
-
+~ Day 17 – Prime Number
+Programs:
+Check whether a number is prime
+Print prime numbers from 1 to 100
+Concepts: Nested loops
 
