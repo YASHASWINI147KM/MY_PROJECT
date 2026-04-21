@@ -102,4 +102,10 @@ Programs:
 Print Fibonacci series
 Print first n Fibonacci numbers
 Concepts: Loop logic
+~ Day 19 – Pattern Printing 1
+Programs:
+Star triangle
+Square star pattern
+Concepts: Nested loops
+
 
