@@ -97,7 +97,7 @@ Programs:
 Check whether a number is prime
 Print prime numbers from 1 to 100
 Concepts: Nested loops
-~  Day 18 – Fibonacci Series
+~ Day 18 – Fibonacci Series
 Programs:
 Print Fibonacci series
 Print first n Fibonacci numbers
@@ -106,6 +106,11 @@ Concepts: Loop logic
 Programs:
 Star triangle
 Square star pattern
+Concepts: Nested loops
+~ Day 20 – Pattern Printing 2
+Programs:
+Number triangle
+Reverse number pattern
 Concepts: Nested loops
 
 
