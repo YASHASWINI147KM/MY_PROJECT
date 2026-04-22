@@ -1,0 +1,33 @@
+//NUMBER PATTERN TRIANGLE
+#include <stdio.h>
+int main() {
+    int n = 5;
+    for (int i = 0; i < n; i++) { 
+        for (int j = 0; j < 2 * (n - i) - 1; j++)
+            printf(" ");
+        for (int k = 0; k < 2 * i + 1; k++)
+            printf("%d ", k + 1);
+        printf("\n");
+    }
+    return 0;
+}
+
+
+//REVERSE NUMBER PATTERN
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int i,j,rows;
+    printf("Enter the number of rows: ");
+           scanf("%d",&rows);
+           for(i=rows; i>=1; i--){
+              for(j=i; j>=1; j--){
+               printf("%d",i); 
+           }
+           printf("\n");
+           }
+    return 0;
+}
+
