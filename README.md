@@ -112,5 +112,11 @@ Programs:
 Number triangle
 Reverse number pattern
 Concepts: Nested loops
+~ Day 21 – Arrays Basics
+Programs:
+Read and print array elements
+Find sum of array elements
+Concepts: Arrays
+
 
 
