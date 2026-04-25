@@ -117,6 +117,12 @@ Programs:
 Read and print array elements
 Find sum of array elements
 Concepts: Arrays
+Day 22 – Array Operations
+Programs:
+Find largest element in array
+Find smallest element in array
+Concepts: Arrays, loops
+
 
 
 
